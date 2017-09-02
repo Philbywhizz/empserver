@@ -30,3 +30,7 @@ notifications:
   irc:
     channels:
       - secure: "JgXi0fUlca7+9/t++ogDZ95IqGu600JVCgEFKBCHZguavxrqPhwgH5rMd1l1MYbVFloxqfykwV3rpiDKLHY0qsJwG8ZmStSHLvxf+CLxxTQ2X3Z2YU4ciZA2/T/dOxq3j8hTpcqUrpGHt2AKSQGjo7JwcO35aAqeEIAPWRsNpl4="
+
+# Test support for shallow clones
+git:
+  depth: 1
